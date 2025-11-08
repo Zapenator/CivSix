@@ -1,0 +1,4 @@
+name: CivSix
+version: '1.0-SNAPSHOT'
+main: org.Zapenator.civSix.CivSix
+api-version: '1.21'
